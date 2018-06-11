@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313747830474",
+    "firebase_url": "https://blufibeekon.firebaseio.com",
+    "project_id": "blufibeekon",
+    "storage_bucket": "blufibeekon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313747830474:android:7d14db7e79f794b7",
+        "android_client_info": {
+          "package_name": "com.example.rahulstudy.blubeekon_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313747830474-j22s2i4mu8j66q2b1os9m513havr9hl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahulstudy.blubeekon_admin",
+            "certificate_hash": "97d7f02255ab029fc8539906bac1373fac3adb81"
+          }
+        },
+        {
+          "client_id": "313747830474-duu1tje05ucs0hopn2b2s3es1715aj2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVi5jfnP87Wx3ydHZwPfYh7gA-jrkNcpI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313747830474-duu1tje05ucs0hopn2b2s3es1715aj2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
